@@ -1,0 +1,1 @@
+This repository contains a basic python program to encrypt and decrypt texts. This was developed as a solution to the attached question from CIL Academy.   
